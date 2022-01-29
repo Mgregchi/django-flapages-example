@@ -1,2 +1,2 @@
-# django-flapages-example
+# django-flatpages-example
 Django Flatpages working example
